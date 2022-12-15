@@ -10,8 +10,9 @@ body{
 #navbar{
     justify-content: center;
     display: flex;
-    background-color: #0e002f;
+    background-color: #000000;
     color: white;
+    padding: 10px;
 }
 
 .container{
@@ -23,7 +24,7 @@ body{
 
 .container .logo{
     width: 200px;
-    height: 50px;
+    height: 100px;
 }
 
 .container ul{
